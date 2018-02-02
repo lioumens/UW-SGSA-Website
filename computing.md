@@ -13,7 +13,7 @@ Tools that are generally recommended and useful to learn for statisticians are l
 * RMarkdown
 * LaTeX
 
-#### High Performance/Throughput Computing
+#### Computing Cluster
 * Bash Shell/Scripting
 * A terminal editor (nano/vim/emacs)
 

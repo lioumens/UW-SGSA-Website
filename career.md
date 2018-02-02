@@ -31,3 +31,21 @@ There are a few places that maintain a list of jobs:
 
 [asa-jobs]:http://jobs.amstat.org/jobs
 [deptlist]:https://www.stat.wisc.edu/careers-blog
+
+#### Student Paper Awards
+
+* [International Biometric Society Young Statisticians Award][ibc]
+* [Institute of Mathematical Statistics Travel Award][ims]
+* [Statistical Modeling Society][sms]
+* [WNAR Student Paper Competitions][wnar]
+* [ENAR Distinguished Student Paper Awards][enar]
+* [Society for Clinical Trials Student Scholarship][sct]
+* [JSM student paper][jsm]
+
+[wnar]:http://www.wnar.org/Student-Competition
+[enar]:https://www.enar.org/meetings/StudentPaperAwards/
+[sms]:http://www.statmod.org/files/others/ToyotaAwardAnnouncement.pdf
+[ims]:http://imstat.org/awards/hannan.html
+[ibc]:https://www.biometricsociety.org/2017/10/call-for-papers-young-statistician-showcase-at-ibc2018-barcelona-spain/
+[sct]:http://www.sctweb.org/public/about/chalmers.cfm
+[jsm]:https://www.amstat.org/ASA/Your-Career/Student-Paper-Competitions.aspx?hkey=6481db83-6316-44b1-be71-d4796b76f583
