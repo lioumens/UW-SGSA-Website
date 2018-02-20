@@ -1,4 +1,4 @@
-<img src="/images/madisonaerial.jpg" style="width:70%">
+<img src="images/madisonaerial.jpg" style="width:70%">
 
 # Housing in Madison
 

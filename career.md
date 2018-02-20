@@ -41,6 +41,7 @@ There are a few places that maintain a list of jobs:
 * [ENAR Distinguished Student Paper Awards][enar]
 * [Society for Clinical Trials Student Scholarship][sct]
 * [JSM student paper][jsm]
+* [International Association for Official Statistics][iaos]
 
 [wnar]:http://www.wnar.org/Student-Competition
 [enar]:https://www.enar.org/meetings/StudentPaperAwards/
@@ -49,3 +50,4 @@ There are a few places that maintain a list of jobs:
 [ibc]:https://www.biometricsociety.org/2017/10/call-for-papers-young-statistician-showcase-at-ibc2018-barcelona-spain/
 [sct]:http://www.sctweb.org/public/about/chalmers.cfm
 [jsm]:https://www.amstat.org/ASA/Your-Career/Student-Paper-Competitions.aspx?hkey=6481db83-6316-44b1-be71-d4796b76f583
+[iaos]:http://www.oecd.org/iaos2018/

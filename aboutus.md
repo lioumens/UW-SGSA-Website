@@ -25,7 +25,7 @@ Hour - faculty, staff, students, families, and friends. The more the merrier!
 
 ### UW-Madison Student's T
 
-The "T" is for talk! This is an opportunity for us graduate students to decide who comes to our department seminar! We invite one speaker per semester to give a talk in the department. All graduate students in our department are invited to discuss and vote on who we should invite. The current voting and discussion is administered through [this Google Group](https://groups.google.com/forum/#!forum/uw-madison-students-t).
+The "T" is for talk! This is an opportunity for us graduate students to decide who comes to our department seminar! We invite one speaker per year to give a talk in the department. All graduate students in our department are invited to discuss and vote on who we should invite. The current voting and discussion is administered through [this Google Group](https://groups.google.com/forum/#!forum/uw-madison-students-t).
 
 ### Mid-Autumn Festival Picnic
 
