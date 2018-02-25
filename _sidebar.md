@@ -7,6 +7,7 @@
     - [Recommended Reading](reading.md)
     - [Exam Resources](exams.md)
     - [Computing Tools](computing.md)
+    - [Student Seminar](seminar.md)
 - **New/Prospective Students**
     - [Wisconsin](wisconsin.md)
 - **News**
