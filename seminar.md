@@ -1,4 +1,4 @@
-#Student Seminar Schedule
+# Student Seminar Schedule
 
 This is the official schedule for the student seminar series. The student seminar series features the research work of current students. We aim to have a speaker about once every other week. Future iterations of the seminar will include topics such as internship experience and computing workshops, depending on interest. We hope to have food at each of the seminars depending on funding! The seminar may lead into the department happy hour depending on the week.
 
