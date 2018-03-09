@@ -13,12 +13,10 @@ The series has a number of goals:
 
 |Speaker|Date/Time|Location|Topic|
 |---|---|---|---|
-|[Muxuan Liang][muxuan] | March 2, 4-5pm | SMI 133 | A Semiparametric Approach to Model Effect Modification |
-| [Cora Allen-Coleman][cora] | March 9, 4-5pm | Social Work, Room 110 | Ranking Methods |
+|<a href="fliers/muxuan_seminar_2018.pdf">Muxuan Liang</a> | March 2, 4-5pm | SMI 133 | A Semiparametric Approach to Model Effect Modification |
+| <a href="fliers/cora_seminar_2018.pdf"> Cora Allen-Coleman</a>| March 9, 4-5pm | Social Work, Room 110 | Ranking Methods |
 | Katie Gold | March 23, 4-5pm | SMI 133 | Hyperspectral reflectance-based predictive models for early disease detection |
 | Fred Boehm | April 6, 4-5pm | SMI 133 | Statistical Methods in Systems Geneteics Studies |
 | Yilin Zhang | April 20, 4-5pm | SMI 133 | Respondent driven Sampling / Regularized Spectral Clustering |
 | Ting Ye | May 4, 4-5pm | SMI133 | Sample size calculation in Immunetherapy trials with delayed treatment effect |
 
-[muxuan]:fliers/muxuan_seminar_2018.pdf
-[cora]:fliers/cora_seminar_2018.pdf
