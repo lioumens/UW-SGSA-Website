@@ -63,7 +63,7 @@ Wisconsin's pride is predominantly comprised of beer, cheese and football, but t
 
 #### Where to find more
 
-* [Isthmus](isthmus.com): Website for local happenings
+* [Isthmus](https://isthmus.com): Website for local happenings
 * [Trip Advisor](https://www.tripadvisor.com/Attractions-g60859-Activities-Madison_Wisconsin.html)
 * [Yelp](https://www.yelp.com/search?find_desc=Food&find_loc=Madison,+WI)
 * [Official Wisconsin Tourism Website](https://www.travelwisconsin.com/)
