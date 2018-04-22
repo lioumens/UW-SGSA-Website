@@ -1,6 +1,6 @@
 ## General Involvement
 
-We are actively recruiting for any students that would like to help organize events for the organization! We're excited that you want to get involved, and would love to talk with you! Whether you simplywant your opinion heard during our open discussions, or create a new event in the department, we welcome your involvement.
+We are actively recruiting for any students that would like to help organize events for the organization! We're excited that you want to get involved, and would love to talk with you! Whether you simply want your opinion heard during our open discussions, or create a new event in the department, we welcome your involvement.
 
 ## Officer Elections
 
