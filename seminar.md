@@ -16,7 +16,7 @@ The series has a number of goals:
 |<a href="fliers/muxuan_seminar_2018.pdf">Muxuan Liang</a> | March 2, 4-5pm | SMI 133 | A Semiparametric Approach to Model Effect Modification |
 | <a href="fliers/cora_seminar_2018.pdf"> Cora Allen-Coleman</a>| March 9, 4-5pm | Social Work, Room 110 | Ranking Methods |
 | <a href="fliers/katie_seminar_2018.pdf"> Katie Gold</a> | March 23, 4-5pm | SMI 133 | Hyperspectral reflectance-based predictive models for early disease detection |
-| <a href="fliers/fred_seminar_2018.pdf"> Fred Boehm </a>| April 6, 4-5pm | SMI 133 | Statistical Methods in Systems Geneteics Studies |
-| <a href="fliers/xiaowu_seminar_2018.pdf">Xiaowu Dai</a> | April 20, 4-5pm | SMI 133 | Respondent driven Sampling / Regularized Spectral Clustering |
+| <a href="fliers/fred_seminar_2018.pdf"> Fred Boehm </a>| April 6, 4-5pm | SMI 133 | Statistical Methods in Systems Genetics Studies |
+| <a href="fliers/xiaowu_seminar_2018.pdf">Xiaowu Dai</a> | April 20, 4-5pm | SMI 133 | Optimal Nonparametric Estimation with Derivatives |
 | Ting Ye | May 4, 4-5pm | SMI133 | Sample size calculation in Immunetherapy trials with delayed treatment effect |
 
