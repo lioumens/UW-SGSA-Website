@@ -18,5 +18,5 @@ The series has a number of goals:
 | <a href="fliers/katie_seminar_2018.pdf"> Katie Gold</a> | March 23, 4-5pm | SMI 133 | Hyperspectral reflectance-based predictive models for early disease detection |
 | <a href="fliers/fred_seminar_2018.pdf"> Fred Boehm </a>| April 6, 4-5pm | SMI 133 | Statistical Methods in Systems Genetics Studies |
 | <a href="fliers/xiaowu_seminar_2018.pdf">Xiaowu Dai</a> | April 20, 4-5pm | SMI 133 | Optimal Nonparametric Estimation with Derivatives |
-| Ting Ye | May 4, 4-5pm | SMI133 | Sample size calculation in Immunetherapy trials with delayed treatment effect |
+| <a href="fliers/ting_seminar_2018.pdf">Ting Ye</a> | May 4, 4-5pm | Social Work, 110 | A Robust Approach to Sample Size Calculation in Cancer Immunotherapy Trials with Delayed Treatment Effect |
 
