@@ -4,12 +4,13 @@
 
 ### Linear Regression
 
-* *Applied Linear Statistical Models by Kutner, Nachtsheim, and Neter* seems to be a silent favorite if you are new to linear regression. It's a big book, and fairly detailed. Suitable for students wishing to learn linear regression from outside of statistics as well.
+* *Applied Linear Statistical Models by Kutner, Nachtsheim, and Neter* seems to be a silent favorite if you are new to linear regression. It's a big book, and fairly detailed. Also contains experimental design stuff. Suitable for students wishing to learn linear regression from outside of statistics as well.
 * *Linear Models in Statistics, Rencher and Schaalje*. If you're a graduate student new to regression, this is a good place to start. Develops a rigorous and step-by-step framework for classic linear regression. The book is used for parts of Stat849. 
 
 ### Experimental Design
 
 * *A First Course in Experimental Design, Oehlert*. Great introduction to experimental design. Very readable.
+* *Analysis of Messy Data, Milliken and Johnson*. This book seems to be a classic, but I wouldn't recommend learning from it. I found it a little difficult to work through. Beware, there are quite a few errors in the book too, so find an errata.
 
 ### Mathematical Statistics
 
@@ -36,4 +37,4 @@
 ### Machine Learning
 
 * *Machine Learning, Tom Mitchell*. Old standard on Machine Learning. Written concisely, but starts from the basic foundations.
-
+* *Pattern Recognition and Machine Learning*. Covers the basics fairly thoroughly. Examples and narrative are straight-forward.
