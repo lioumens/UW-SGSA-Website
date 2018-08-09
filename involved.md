@@ -11,3 +11,5 @@ We elect officers at the beginning of the Fall semester on a yearly cycle. If yo
 The website is also publically hosted on [Github](https://github.com/lioumens/UW-SGSA-Website), so you may create a pull request or submit an issue ticket if you have any changes to the website you'd like to add or see.
 
 Please contact Michael Liou at myliou [at] wisc.edu if you are interested in helping or have any questions!
+
+

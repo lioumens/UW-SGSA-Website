@@ -1,3 +1,31 @@
 .markdown-section h1 {
   font-size: 4rem;
 }
+
+/* change spacing between the title and subtitle */
+.cover-main > h2 {
+  margin-top: 0;
+}
+
+#statistics-graduate-student-association {
+  margin-bottom: 0;
+}
+
+/* align logo to top of page */
+.sidebar {
+  padding-top: 0;
+}
+
+/* make logo in sidebar smaller */
+.sidebar > h1 {
+  width: 50%;
+	margin-bottom: 0;
+}
+
+/* no aliasing for bottom edge of github tag in corner */
+.github-corner svg {
+  shape-rendering: crispedges;
+}
+.octo-body, .octo-arm {
+	shape-rendering: auto;
+}
