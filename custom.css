@@ -1,3 +1,4 @@
+/* make all h1 headings larger */
 .markdown-section h1 {
   font-size: 4rem;
 }
@@ -9,6 +10,15 @@
 
 #statistics-graduate-student-association {
   margin-bottom: 0;
+}
+
+#coverlogo {
+  min-width: 400px;
+}
+
+/* Fix short and wide screens */
+section.cover {
+  min-height: 800px;
 }
 
 /* align logo to top of page */
