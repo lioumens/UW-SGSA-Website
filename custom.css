@@ -12,13 +12,19 @@
   margin-bottom: 0;
 }
 
+/* Small screen main cover, don't make it too small */
 #coverlogo {
-  min-width: 400px;
+  min-width: 320px;
 }
 
 /* Fix short and wide screens */
 section.cover {
   min-height: 800px;
+}
+
+/* small screens text gets pushed off with margin */
+section.cover .cover-main {
+  margin-left: 0px;
 }
 
 /* align logo to top of page */
