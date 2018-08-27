@@ -14,13 +14,15 @@ The student seminars are a chance for students to come together, practice their 
 
 ### Department Happy Hour
 
+<em style="color: var(--theme-color,#42b983)">Join us for our first happy hour of Fall 2018, Thursday, Aug 30th at 4 pm at The Sett in Union South!!</em>
+
 In the same vein of the social traditions started by our department founder
-George Box, we gather at The Sett in Union South fairly regularly on Fridays at
-5 pm. Check your emails for a reminder during the week of the social. This
-spring semester we will meet the first and third Friday of every month! This is
-a great chance to hang out and talk with other people in our department that
-you don't get to see very often! Everyone is welcome at the Department Happy
-Hour - faculty, staff, students, families, and friends. The more the merrier!
+George Box, we gather at The Sett in Union South fairly regularly to talk about
+statistics and have fun. Check your emails for a reminder during the week of
+the social. The schedule for this Fall 2018 semester is TBD. This is a great
+chance to hang out and talk with other people in our department that you don't
+get to see very often!  Everyone is welcome at the Department Happy Hour -
+faculty, staff, students, families, and friends. The more the merrier!
 
 ### UW-Madison Student's T
 
