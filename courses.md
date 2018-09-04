@@ -32,8 +32,8 @@ Depending on your previous classes, you may start off in either Stat 609 or 709.
 | Year | Semester | Courses | Semester | Courses |
 |---------|:------------|-------|-----------|-------|
 | Year 1 | Fall 1 | 609, 849, elective | Spring 1 | 610, 850, 771 |
-|Year 2 (Quals option B)| Fall 2 | 709, elective, elective | Spring 2 | 710, 998, elective |
-|Year 3 (Quals option A)| Fall 3 | elective, research | Spring 3 | elective, research |
+|Year 2 (Quals option B)| Fall 2 | 709, elective, elective | Spring 2 | 710, elective, elective |
+|Year 3 (Quals option A)| Fall 3 | 998, research | Spring 3 | elective, research |
 |Year 4+ | Fall 4+ | research... | Spring 4+ | research... |
 
 
@@ -42,7 +42,7 @@ If you start off in Stat709 with an interest in probability theory,
 | Year | Semester | Courses | Semester | Courses |
 |---------|:------------|-------|-----------|-------|
 | Year 1 | Fall 1 | 709, 849, 733 | Spring 1 | 710, 850, 734 |
-|Year 2 (Quals option A| Fall 2 | 3 electives | Spring 2 | 998, 2 electives |
+|Year 2 (Quals option A) | Fall 2 | 3 electives | Spring 2 | 998, 2 electives |
 |Year 3 | Fall 3 | elective, research | Spring 3 | elective, research |
 |Year 4+ | Fall 4+ | research... | Spring 4+ | research... |
 
