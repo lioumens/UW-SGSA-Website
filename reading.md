@@ -35,6 +35,7 @@
 
 * [*Bayesian Data Analysis, Gelman, et al.*](https://search.library.wisc.edu/catalog/9910191568002121) This is THE classic for Bayesian statistics. Must have if you are planning on doing any Bayesian analysis.
 * [*Bayesian Nonparametrics, Hjort, et al.*](https://search.library.wisc.edu/catalog/9910089493702121) "It's a classic."
+* [*Statistical Rethinking, Richard McElreath*](https://search.library.wisc.edu/catalog/9912140533102121). A much lauded introductory text that's more approachable than BDA3.
 
 ### Asymptotic Statistics
 
@@ -44,7 +45,7 @@
 
 * [*Computational Statistics, Givens and Hoeting*](https://search.library.wisc.edu/catalog/9912217600102121). Longer exposition for  text for model-based approaches.
 * [*Elements of Statistical Computing, Thisted*](https://search.library.wisc.edu/catalog/999588883802121). Reads well for the classic methods. Highly recommended for Stat771. Used to be required.
-* [*Numerical analysis for Statisticians, Lange*](https://search.library.wisc.edu/catalog/999936725402121). Very complete, and consise. Concise to the point that the book is better used as a reference than learning material from for the first time.
+* [*Numerical analysis for Statisticians, Lange*](https://search.library.wisc.edu/catalog/999936725402121). Very complete, and concise. Concise to the point that the book is better used as a reference than learning material from for the first time.
 
 ### Theory of Machine/Statistical Learning
 
@@ -59,3 +60,7 @@
 ### R Programming
 
 * [*Advanced R, Wickham*](https://adv-r.hadley.nz/). Self explanatory. Deep dive into the machinery of R, absolutely necessary for serious programming in R or satisfying your curiousity of how the language really works. Available online by author.
+
+* [*R for Data Science, Wickham*](http://r4ds.had.co.nz/). An introduction to R focused on efficient modeling workflows rather than details of the language
+
+* [*R Packages for Data Science, Wickham*](http://r-pkgs.had.co.nz/). The canonical reference on how to write an R package. Keep an eye out for second edition, currently being written in the open (online) by Jenny Bryan.
