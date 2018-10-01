@@ -40,11 +40,14 @@ we encourage everyone to attend!
 
 ### Current Executive Board
 
-* **President**: Peter Wang & Sri Aravamuthan
-* **Vice-President**: Stephen Berg & Yilin Zhang
-* **Treasurer**: Sean Kent & Mitchell Paukner
-* **Social Chairs**: Jake Maronge & Michael Liou
-* **Webmaster**: Michael Liou & Jake Maronge
-* **Seminar Chairs**: Xiaowu Dai & Muxuan Liang
+* **President**: Michael Liou
+* **Vice-President**: Srikanth Aravamuthan
+* **Treasurer**: Sean Kent
+* **Secretary**: Emma Krauska
+* **Student Relations Chair**: Elina Choi
+* **Technology Chair**: Alex Hayes
+* **Seminar Chair**: Xiaowu Dai
+* **Biostatistics Department Representative**: Matt Stone
+* **Statistics Department Representative**: Jeanne Li
 
 If you would like to get involved, please see the "[Getting Involved](involved.md)" section
