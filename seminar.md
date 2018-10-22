@@ -9,19 +9,7 @@ The series has a number of goals:
 4. Share notable internship and teaching experiences.
 5. Make useful workshops for students.
 
-#### Fall 2018
-
-This semester the student seminars will be 12 - 1 pm on Fridays. We're currently scheduling speakers and will update the website with more information soon.
-
-|Speaker|Date|Time|Location|Topic|
-|-------|----|----|--------|-----|
-| TBD | October 5 | 12 - 1 pm | TBD | TBD |
-| TBD | October 19 | 12 - 1 pm | TBD | TBD |
-| TBD | November 2 | 12 - 1 pm | TBD | TBD |
-| TBD | November 16 | 12 - 1 pm | TBD | TBD |
-| TBD | November 30 | 12 - 1 pm | TBD | TBD |
-
-### Previous semesters
+### Previous seminars
 
 #### Spring 2018
 
