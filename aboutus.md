@@ -1,32 +1,31 @@
 # Welcome!
 
-We are the Statistics Graduate Student Association at UW-Madison. We founded in 2018 with the goal of coordinating the graduate student activities
-of the department. We currently coordinate the student seminar, the department happy hour at The Sett, and this website. We also hope to create a stronger community among the
-statistics department by focusing on development of our professional networks,
-training in modern statistical tools, and cultivation of research interests.
+We are the Statistics Graduate Student Association at UW-Madison. We founded in 2018 with the goal of coordinating the graduate student activities of the department. We currently coordinate the student seminar, the department happy hour at The Sett, and this website. We also hope to create a stronger community among the statistics department by focusing on development of our professional networks, training in modern statistical tools, and cultivation of research interests.
 
-Here we've collected a number of resources we hope will be helpful for both current and new students here at UW-Madison, including information on coursework, career resources, and things to do around Madison. Below is a short summary of our activities.
+Here we've collected a number of resources we hope will be helpful for both current and new students here at UW-Madison, including information on coursework, career resources, and things to do around Madison.
 
-
-### Student Seminar
-
-The student seminars are a chance for students to come together, practice their research talks, present interesting topics, and share their student experiences. The regularity of the talks depends on the number of speakers and general attendance. We normally send out a survey and set most of the schedule at the beginning of the semester. Check out the student seminar page for the most up-to-date information for the student seminars!
+## Fall 2018 Events
 
 ### Department Happy Hour
 
-<em style="color: var(--theme-color,#42b983)">Join us for our first happy hour of Fall 2018, Thursday, Aug 30th at 4 pm at The Sett in Union South!!</em>
+Happy Hour's begin at 4 pm in The Sett at Union South. Everyone is welcome at the Department Happy Hour - faculty, staff, students, families, and friends. The more the merrier! The semester we're having Happy Hours every other week. The remaining happy hours are on:
 
-In the same vein of the social traditions started by our department founder
-George Box, we gather at The Sett in Union South fairly regularly to talk about
-statistics and have fun. Check your emails for a reminder during the week of
-the social. The schedule for this Fall 2018 semester is TBD. This is a great
-chance to hang out and talk with other people in our department that you don't
-get to see very often!  Everyone is welcome at the Department Happy Hour -
-faculty, staff, students, families, and friends. The more the merrier!
+- Oct 26
+- Nov 9
+- Nov 23
+- Dec 7
 
-### UW-Madison Student's T
+### Student Seminars
 
-The "T" is for talk! This is an opportunity for us graduate students to decide who comes to our department seminar! We invite one speaker per year to give a talk in the department. All graduate students in our department are invited to discuss and vote on who we should invite. The current voting and discussion is administered through [this Google Group](https://groups.google.com/forum/#!forum/uw-madison-students-t).
+This semester student seminars will be 3 pm - 4 pm on Fridays. We're currently scheduling speakers and will update the website with more information soon. You can read more about the student seminars and see flyers for previous speakers on the [student seminar page](seminar.md).
+
+|Speaker|Date|Time|Location|Topic|
+|-------|----|----|--------|-----|
+| TBD | November 2 | 12 - 1 pm | TBD | TBD |
+| TBD | November 16 | 12 - 1 pm | TBD | TBD |
+| TBD | November 30 | 12 - 1 pm | TBD | TBD |
+
+The student seminars are a chance for students to come together, practice their research talks, present interesting topics, and share their student experiences. The regularity of the talks depends on the number of speakers and general attendance. We normally send out a survey and set most of the schedule at the beginning of the semester. Check out the student seminar page for the most up-to-date information for the student seminars!
 
 ### Mid-Autumn Festival Picnic
 

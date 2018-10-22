@@ -2,6 +2,9 @@
 
 ### 2018
 
+* [**Thevaa Chandereng**][Thevaa_Chandereng]
+    * ASA Biopharmaceutical Section Scholarship
+    * BASS Student Travel Award
 * [**Muxuan Liang**][Liang_Muxuan]: JSM Travel Award Winner for "A semiparametric approach to model effect modification"
 * **Hyebin Song**: ASA SLDS JSM 2018 Student Paper Competition Winner for "PUlasso: High-dimensional variable selection with presence-only data"
 * **Thevaa Chandereng**: MBSW Student Financial Grant for "Imbalanced Randomization in Clinical Trials"
@@ -14,7 +17,7 @@
 * [**Ye Zheng**][Zheng_Ye]: ASA Section of Statistics in Genomics and Genetics (SGG) Distinguished Student Paper Award for "Statistical Methods for Profiling 3-Dimensional
 Chromatin Interactions from Repetitive Regions of Genomes"
 
-
+[Thevaa_Chandereng]: https://thevaachandereng.github.io/
 [Dai_Xiaowu]: http://pages.stat.wisc.edu/~xdai26/
 [Kent_Sean]: http://pages.cs.wisc.edu/~kent/
 [Ye_Ting]: https://sites.google.com/view/tingye/
