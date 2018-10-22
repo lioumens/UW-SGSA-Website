@@ -4,14 +4,14 @@
 
 #### Fellowships
 
-
+* [Facebook Fellowship Program][fb]
 * [NSF Graduate Fellowship Program][nsf]
 * [National Defense Science and Engineering Fellowship][ndsef]
 * [Ford Predoctoral Fellowship][ford]
 * [Hertz Foundation Predoctoral Fellowship][hertz]
 * [National Physical Science Consortium Fellowship][npscf]
 
-
+[fb]:https://research.fb.com/programs/fellowship/
 [nsf]:https://www.nsfgrfp.org/
 [ndsef]:https://ndseg.asee.org/
 [ford]:http://sites.nationalacademies.org/PGA/FordFellowships/PGA_047958
@@ -51,3 +51,11 @@ There are a few places that maintain a list of jobs:
 [sct]:http://www.sctweb.org/public/about/chalmers.cfm
 [jsm]:https://www.amstat.org/ASA/Your-Career/Student-Paper-Competitions.aspx?hkey=6481db83-6316-44b1-be71-d4796b76f583
 [iaos]:http://www.oecd.org/iaos2018/
+
+#### Poster Competitions
+
+* [New England Statistics Symposium][ness]
+* [International Chinese Statistical Association][icsa]
+
+[ness]: https://symposium.nestat.org/awards.html#ibmpaper
+[icsa]: http://www.icsa.org/icsa_login/symposium2018/student.html
