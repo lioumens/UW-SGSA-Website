@@ -57,10 +57,15 @@
 
 * [*Convex Optimization, Boyd and Vandenberghe*](http://web.stanford.edu/~boyd/cvxbook/). This is it. Really clear explanations and wildly popular. Must read if doing any convex optimization. PDF download available by authors.
 
-### R Programming
+### Programming
 
 * [*Advanced R, Wickham*](https://adv-r.hadley.nz/). Self explanatory. Deep dive into the machinery of R, absolutely necessary for serious programming in R or satisfying your curiousity of how the language really works. Available online by author.
 
 * [*R for Data Science, Wickham*](http://r4ds.had.co.nz/). An introduction to R focused on efficient modeling workflows rather than details of the language
 
 * [*R Packages for Data Science, Wickham*](http://r-pkgs.had.co.nz/). The canonical reference on how to write an R package. Keep an eye out for second edition, currently being written in the open (online) by Jenny Bryan.
+
+* [*Bioinformatics Data Skills, V. Buffalo*](http://shop.oreilly.com/product/0636920030157.do)
+  and [resources](https://github.com/vsbuffalo/bds-files).
+  Great to start learning bash / shell scripting, and git for version control
+
