@@ -21,9 +21,9 @@ This semester student seminars will be 3 pm - 4 pm on Fridays. We're currently s
 
 |Speaker|Date|Time|Location|Topic|
 |-------|----|----|--------|-----|
-| TBD | November 2 | 12 - 1 pm | TBD | TBD |
-| TBD | November 16 | 12 - 1 pm | TBD | TBD |
-| TBD | November 30 | 12 - 1 pm | TBD | TBD |
+| <a href="fliers/maronge_seminar_2018.pdf">Jake Maronge</a> | November 2 | 3 - 4 pm | SMI 331 | Making Websites with R |
+| TBD | November 16 | 3 - 4 pm | TBD | TBD |
+| TBD | November 30 | 3 - 4 pm | TBD | TBD |
 
 The student seminars are a chance for students to come together, practice their research talks, present interesting topics, and share their student experiences. The regularity of the talks depends on the number of speakers and general attendance. We normally send out a survey and set most of the schedule at the beginning of the semester. Check out the student seminar page for the most up-to-date information for the student seminars!
 
