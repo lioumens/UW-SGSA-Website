@@ -19,10 +19,9 @@ version control your website, and track your changes. Finally, if you would
 like a custom domain name, you will need to purchase the domain and update
 the host records.
 
-Of course, there are many ways to make a website, but we think this is best
-and easiest and most sustainable way to keep a website as a modern
-statisitician. If you think there's a better way, please contact the SGSA
-technology committee.
+Of course, there are many ways to make a website, but we think this is easiest
+and most sustainable way to keep a website as a modern statisitician. If you
+think there's a better way, please contact the SGSA technology committee.
 
 #### Slides from SGSA Workshop
 
@@ -175,7 +174,7 @@ web pages (web-based chat applications, browser games, etc).
 
 The internet is simply a network of computers communicating with each other with established protocols. The [Youtube Video](https://www.youtube.com/watch?v=7_LPdttKXPc) explains some of the basics.
 
-### Static Site Generator (SGS): Hugo, Jekyll, Hexo, Octopress, Pelican, etc
+### Static Site Generator (SSG): Hugo, Jekyll, Hexo, Octopress, Pelican, etc
 
 Static Site Generators are as they are named. It's a "static" website because
 the components don't really change. We are not trying to create a search engine
@@ -185,14 +184,14 @@ generators do this very well because they normally translate from some simpler t
 files (`.yaml`, `.toml`, `.md`, etc) files and translate these into `.html` files. These
 simplify the process which allows you to focus on your content
 instead of the details of web development (making sure the webpage is viewable
-on different screen size and browsers, etc.). Luckily, SGS's normally have many
+on different screen size and browsers, etc.). Luckily, SSG's normally have many
 free pre-made customizable templates that take of those issues for you.
 
 * [Hugo Themes](https://themes.gohugo.io/)
 * [Jekyll Themes](http://jekyllthemes.org/)
 
-Of course, there's more you can do with SGS's. You may choose to
-create your own design page. Most SGS's provide a templating engine as well
+Of course, there's more you can do with SSG's. You may choose to
+create your own design page. Most SSG's provide a templating engine as well
 so that you can design "components" (sidebard, navbars) and plug them in to
 every page to make the pages look more uniform.
 
@@ -221,6 +220,8 @@ The statistics department and BMI department both provide these services free
 for students. Github offers free hosting under their domain name with each
 repository you make. Netlify is also a great option [recommended by blogdown
 developers](https://bookdown.org/yihui/blogdown/deployment.html#fnref30).
+
+> Remark: If you're already worried about rankings in search results, don't worry. Sites like `github.io` and `myname.me` are non-traditional top level domain names (`.edu`, `.com`, `.org`), but search engines will treat them all the same. There is not "priority" given to one top-level domain over another. In fact, more and more top level domains are popping up (`.guru`, `.tech`, `.info`), and they are often times cheaper than their (`.com`) counterparts. Sometimes $.99 a year. The primary ranking method is still "usefulness to users" (PageRank), so if you're page is linked to a lot by others, it will appear higher in the rankings. The only disadvantage is often the lay-person's association with non-traditional domain names. Since `.com` is so common, it's seen often perceived as "better". See [Google's handling of top level domains](https://webmasters.googleblog.com/2015/07/googles-handling-of-new-top-level.html) for more detail.
 
 ### Version Control: Git, SVN, Mercurial
 
