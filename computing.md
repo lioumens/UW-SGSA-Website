@@ -20,3 +20,7 @@ Tools that are generally recommended and useful to learn for statisticians are l
 #### Version Control
 
 * Git (Github/Bitbucket)
+
+#### Website
+
+* [Making a Website with Blogdown in R](website.md)
