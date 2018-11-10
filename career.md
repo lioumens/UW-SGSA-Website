@@ -10,13 +10,15 @@
 * [Ford Predoctoral Fellowship][ford]
 * [Hertz Foundation Predoctoral Fellowship][hertz]
 * [National Physical Science Consortium Fellowship][npscf]
+* [John J. Bartko Scholarship Award][barto]
 
-[fb]:https://research.fb.com/programs/fellowship/
-[nsf]:https://www.nsfgrfp.org/
-[ndsef]:https://ndseg.asee.org/
-[ford]:http://sites.nationalacademies.org/PGA/FordFellowships/PGA_047958
-[hertz]:http://hertzfoundation.org/dx/fellowships/fellowshipaward.aspx
-[npscf]:http://www.npsc.org/index.html
+[fb]: https://research.fb.com/programs/fellowship/
+[nsf]: https://www.nsfgrfp.org/
+[ndsef]: https://ndseg.asee.org/
+[ford]: http://sites.nationalacademies.org/PGA/FordFellowships/PGA_047958
+[hertz]: http://hertzfoundation.org/dx/fellowships/fellowshipaward.aspx
+[npscf]: http://www.npsc.org/index.html
+[barto]: https://www.amstat.org/ASA/Your-Career/Awards/John-J-Bartko-Scholarship-Award.aspx
 
 
 #### Jobs
