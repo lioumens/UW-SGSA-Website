@@ -23,7 +23,8 @@ This semester student seminars will be 3 pm - 4 pm on Fridays. We're currently s
 |-------|----|----|--------|-----|
 | <a href="fliers/maronge_seminar_2018.pdf">Jake Maronge</a> | November 2 | 3 - 4 pm | SMI 331 | Making Websites with R |
 | <a href="fliers/chandereng_seminar_2018.pdf">Thevaa Chandereng</a> | November 9 | 3 - 4 pm | SMI 331 | Adaptive Bayesian Clinical Trial for Incorporating  Historical Data and Early Stopping for Success and Futility |
-| TBD | November 30 | 3 - 4 pm | TBD | TBD |
+| <a href="fliers/zhu_seminar_2018.pdf">Yuhua Zhu</a> | November 16 | 3 - 4 pm | SMI 133 | A PDE Perspective of Stochastic Gradient Descent in Deep Learning|
+| TBD | November 30 | 3 - 4 pm | SMI 133 | TBD |
 
 The student seminars are a chance for students to come together, practice their research talks, present interesting topics, and share their student experiences. The regularity of the talks depends on the number of speakers and general attendance. We normally send out a survey and set most of the schedule at the beginning of the semester. Check out the student seminar page for the most up-to-date information for the student seminars!
 
