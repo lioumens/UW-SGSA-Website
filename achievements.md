@@ -1,5 +1,9 @@
 # Student Achievements
 
+### 2019
+
+* **Rui Chen** won 2019 JSM Biometrics Section student award for his work "Tailored Optimal  Post-Treatment Surveillance for  Cancer Recurrence". 
+
 ### 2018
 
 * [**Thevaa Chandereng**][Thevaa_Chandereng]
