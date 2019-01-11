@@ -22,8 +22,10 @@ This semester student seminars will be 3 pm - 4 pm on Fridays. We're currently s
 |Speaker|Date|Time|Location|Topic|
 |-------|----|----|--------|-----|
 | <a href="fliers/maronge_seminar_2018.pdf">Jake Maronge</a> | November 2 | 3 - 4 pm | SMI 331 | Making Websites with R |
-| TBD | November 16 | 3 - 4 pm | TBD | TBD |
-| TBD | November 30 | 3 - 4 pm | TBD | TBD |
+| <a href="fliers/chandereng_seminar_2018.pdf">Thevaa Chandereng</a> | November 9 | 3 - 4 pm | SMI 331 | Adaptive Bayesian Clinical Trial for Incorporating  Historical Data and Early Stopping for Success and Futility |
+| <a href="fliers/zhu_seminar_2018.pdf">Yuhua Zhu</a> | November 16 | 3 - 4 pm | SMI 133 | A PDE Perspective of Stochastic Gradient Descent in Deep Learning|
+| <a href="fliers/hayes_seminar_2018.pdf">Alex Hayes</a> | November 30 | 3 - 4 pm | SMI 133 | Solving the model representation problem with broom|
+| <a href="fliers/berg_seminar_2018.pdf">Stephen Berg</a> | December 7 | 3 - 4 pm | SMI 133 | Workshop on using Rcpp to write an R package (<a href="workshops/berg/materials.zip">materials</a>)|
 
 The student seminars are a chance for students to come together, practice their research talks, present interesting topics, and share their student experiences. The regularity of the talks depends on the number of speakers and general attendance. We normally send out a survey and set most of the schedule at the beginning of the semester. Check out the student seminar page for the most up-to-date information for the student seminars!
 
@@ -43,10 +45,10 @@ we encourage everyone to attend!
 * **Vice-President**: Srikanth Aravamuthan
 * **Treasurer**: Sean Kent
 * **Secretary**: Emma Krauska
-* **Student Relations Chair**: Elina Choi
+* **Student Relations Chair**: Susan Glenn
 * **Technology Chair**: Alex Hayes
 * **Seminar Chair**: Xiaowu Dai
 * **Biostatistics Department Representative**: Matt Stone
 * **Statistics Department Representative**: Jeanne Li
 
-If you would like to get involved, please see the "[Getting Involved](involved.md)" section
+If you would like to get involved, please see the "[Getting Involved](involved.md)" section. Our bylaws are [available on WIN](https://win.wisc.edu/organization/statistics-graduate-student-association).
