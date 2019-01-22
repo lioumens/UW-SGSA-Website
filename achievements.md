@@ -2,7 +2,11 @@
 
 ### 2019
 
+* [**Thevaa Chandereng**][Thevaa_Chandereng] won 2nd place in the Medical Device and Diagnostic Section’s 2019 student paper competition for his paper “bayesCT: A Tool for Simulation and Analysis of Adaptive Bayesian Clinical Trials for Binomial and Normal Data"!
+
 * **Rui Chen** won 2019 JSM Biometrics Section student award for his work "Tailored Optimal  Post-Treatment Surveillance for  Cancer Recurrence". 
+
+* **Pixu Shi** and **Yuchen Zhou** received the Biometrics Early-Stage Investigator Award by the Biometrics Section of the American Statistical Association for the joint work with Anru Zhang titled "High-dimensional log-error-in-variable regression with applications to microbial compositional data analysis"
 
 ### 2018
 
