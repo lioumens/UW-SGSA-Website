@@ -11,6 +11,16 @@ The series has a number of goals:
 
 ### Previous seminars
 
+#### Fall 2018
+
+|Speaker|Date|Time|Location|Topic|
+|-------|----|----|--------|-----|
+| <a href="fliers/maronge_seminar_2018.pdf">Jake Maronge</a> | November 2 | 3 - 4 pm | SMI 331 | Making Websites with R |
+| <a href="fliers/chandereng_seminar_2018.pdf">Thevaa Chandereng</a> | November 9 | 3 - 4 pm | SMI 331 | Adaptive Bayesian Clinical Trial for Incorporating  Historical Data and Early Stopping for Success and Futility |
+| <a href="fliers/zhu_seminar_2018.pdf">Yuhua Zhu</a> | November 16 | 3 - 4 pm | SMI 133 | A PDE Perspective of Stochastic Gradient Descent in Deep Learning|
+| <a href="fliers/hayes_seminar_2018.pdf">Alex Hayes</a> | November 30 | 3 - 4 pm | SMI 133 | Solving the model representation problem with broom|
+| <a href="fliers/berg_seminar_2018.pdf">Stephen Berg</a> | December 7 | 3 - 4 pm | SMI 133 | Workshop on using Rcpp to write an R package (<a href="workshops/berg/materials.zip">materials</a>)|
+
 #### Spring 2018
 
 |Speaker|Date/Time|Location|Topic|
