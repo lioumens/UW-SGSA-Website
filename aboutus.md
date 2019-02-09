@@ -18,14 +18,20 @@ More speakers to be announced.
 
 ### Happy Hour
 
-They're happening, but dates haven't been set yet.
+Happy Hour is at 4 pm in The Sett, Union South. This semester the dates are:
+
+- February 15
+- March 1
+- March 29
+- April 12
+- April 26
 
 ### Current Executive Board
 
 * **President**: Michael Liou
 * **Vice-President**: Srikanth Aravamuthan
 * **Treasurer**: Sean Kent
-* **Secretary**: Emma Krauska
+* **Secretary**: Auden Krauska
 * **Student Relations Chair**: Susan Glenn
 * **Technology Chair**: Alex Hayes
 * **Seminar Chair**: Xiaowu Dai
