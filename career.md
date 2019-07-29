@@ -29,10 +29,8 @@ that are distributed through those channels. You can also ask your advisor for s
 There are a few places that maintain a list of jobs:
 
 * [ASA List][asa-jobs]
-* [Department of Statistics][deptlist]
 
 [asa-jobs]:http://jobs.amstat.org/jobs
-[deptlist]:https://www.stat.wisc.edu/careers-blog
 
 #### Student Paper Awards
 
@@ -60,4 +58,4 @@ There are a few places that maintain a list of jobs:
 * [International Chinese Statistical Association][icsa]
 
 [ness]: https://symposium.nestat.org/awards.html#ibmpaper
-[icsa]: http://www.icsa.org/icsa_login/symposium2018/student.html
+[icsa]: http://www.icsa.org/icsa/

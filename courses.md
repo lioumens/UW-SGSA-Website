@@ -12,6 +12,14 @@ For a list of your graduation requirements see the official website for your deg
 * PhD Minors/Certificates
   - [Computer Science][cs]
 
+[masters-req]: http://old-www.stat.wisc.edu/phd-masters/MS_Degree_Regulations 
+[biometry-req]: https://stat.wisc.edu/graduate-studies/biometry/ 
+[data-req]: https://stat.wisc.edu/wp-content/uploads/sites/870/2019/05/MSDS-Handbook-Fall-2018.pdf
+[phd-req]: https://old-www.stat.wisc.edu/phd-masters/PhD_Degree_Regulations
+[bio-req]: https://old-www.stat.wisc.edu/sites/default/files/Biostats%20Option%20Requirements%20Revised.pdf
+[bmids-req]: https://biostat.wisc.edu/PHD-Biomedical-Data-Science
+[cs]: https://www.cs.wisc.edu/graduate/graduate-phd-minor/
+
 
 # Timelines
 
@@ -47,14 +55,6 @@ If you start off in Stat709 with an interest in probability theory,
 |Year 4+ | Fall 4+ | research... | Spring 4+ | research... |
 
 
-
-[masters-req]:https://www.stat.wisc.edu/phd-masters/MS_Degree_Regulations
-[biometry-req]:https://www.stat.wisc.edu/masters-biometry
-[data-req]:https://www.stat.wisc.edu/ms-degree-data-science-option-ms-ds
-[phd-req]:https://www.stat.wisc.edu/phd-masters/PhD_Degree_Regulations
-[bio-req]:https://www.stat.wisc.edu/sites/default/files/Biostats%20Option%20Requirements%20Revised.pdf
-[bmids-req]:https://biostat.wisc.edu/PHD-Biomedical-Data-Science
-[cs]:https://www.cs.wisc.edu/academics/graduate-programs/grad-minor
 
 
 ### Biostatistic Degree Option

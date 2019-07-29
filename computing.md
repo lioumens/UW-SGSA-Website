@@ -1,5 +1,5 @@
 # Computing Tools
-The department website has a fairly [comprehensive list](https://www.stat.wisc.edu/network-skills) of resources for common tools for software engineering and computing, along with information and tutorials of the computing resources at Wisconsin.
+The department website has a fairly [comprehensive list](https://old-www.stat.wisc.edu/network-skills) of resources for common tools for software engineering and computing, along with information and tutorials of the computing resources at Wisconsin.
 
 Tools that are generally recommended and useful to learn for statisticians are listed by category below. The list is obviously not comprehensive, but a good place to start.
 

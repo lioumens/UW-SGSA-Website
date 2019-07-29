@@ -21,6 +21,7 @@ vibes around Madison.
 Wisconsin's pride is predominantly comprised of beer, cheese and football, but those are not the only things Madison has to offer! Here are some quick highlights to check out.
 
 <img src="images/chairs.jpg" alt="Union Terrace" style="width:40%;float:right"/>
+
 ### General Hotspots
 
 
