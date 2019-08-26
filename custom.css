@@ -45,3 +45,8 @@ section.cover .cover-main {
 .octo-body, .octo-arm {
 	shape-rendering: auto;
 }
+
+/* override background color of coverpage */
+.cover.show {
+  background: linear-gradient(to right top, #9ae4ff 0%, #bd333c 100%) !important;
+}
