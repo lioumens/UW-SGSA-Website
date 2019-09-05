@@ -14,6 +14,13 @@ The series has a number of goals:
 
 ### Previous Student Seminars
 
+#### Spring 2019
+
+| Speaker | Date       | Time           | Location | Topic                                                                            |
+|---------|------------|----------------|----------|----------------------------------------------------------------------------------|
+| Ke Chen | February 1 | 2:30 - 3:30 pm | SMI 133  | <a href="fliers/chen_seminar_2019.pdf">Inverse Problem in Optimal Tomography</a> |
+
+
 #### Fall 2018
 
 | Speaker                                                            | Date        | Time     | Location | Topic                                                                                                           |
