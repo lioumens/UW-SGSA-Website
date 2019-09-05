@@ -12,28 +12,15 @@ Let us know if you want to contribute to SGSA!
 
 We elect officers at the beginning of the Fall semester on a yearly cycle.  The main duties of the officers are:
 
-  * **President**: Oversees and manages the organization including planning and organizing events and projects and chairs General Meetings.
-  * **Vice President**: Advises the President and the organization in planning and organizing events and projects.
-  * **Treasurer**: Oversees and manages finances for the organization.
-  * **Secretary**: Oversees and manages communications for the organization.
-  * **Student Seminar**: Plans and organizes seminars and workshops.
-  * **Student Relations**: Plans and organizes social events.
-  * **Technology**: Plans and organizes the website.
+  * **President (Michael Liou)**: Oversees and manages the organization including planning and organizing events and projects and chairs General Meetings.
+  * **Vice President (Srikanth Aravamuthan)**: Advises the President and the organization in planning and organizing events and projects.
+  * **Treasurer (Sean Kent)**: Oversees and manages finances for the organization.
+  * **Secretary (Auden Krauska)**: Oversees and manages communications for the organization.
+  * **Student Relations (Susan Glenn)**: Plans and organizes social events.
+  * **Technology (Alex Hayes)**: Plans and organizes the website.
+  * **Student Seminar (Xiaowu Dai)** : Plans and organizes seminars and workshops.
   * **Student Outreach**: Plans and organizes volunteer events
-  * **Student Representatives**: Represents the President and the organization in Department Meeting.
-
-### Current Officers
-
-* **President**: Michael Liou
-* **Vice-President**: Srikanth Aravamuthan
-* **Treasurer**: Sean Kent
-* **Secretary**: Auden Krauska
-* **Student Relations**: Susan Glenn
-* **Technology**: Alex Hayes
-* **Seminar**: Xiaowu Dai
-* **Biostatistics Department Representative**: Matt Stone
-* **Statistics Department Representative**: Jeanne Li
-
+  * **Student Representatives (Jeanne Li, Matt Stone)**: Represents the President and the organization in Department Meeting.
 
 ## About This Website
 
