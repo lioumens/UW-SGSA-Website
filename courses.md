@@ -1,6 +1,6 @@
 
 
-# Degree Requirements
+## Degree Requirements
 
 For a list of your graduation requirements see the official website for your degree:
 * [Masters][masters-req]
@@ -21,7 +21,7 @@ For a list of your graduation requirements see the official website for your deg
 [cs]: https://www.cs.wisc.edu/graduate/graduate-phd-minor/
 
 
-# Timelines
+## Timelines
 
 ### Traditional Masters
 

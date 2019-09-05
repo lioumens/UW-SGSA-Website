@@ -1,11 +1,11 @@
 <img src="images/knowledge.jpg" style="width:70%"/>
 
 
-# Master's Exam
+## Master's Exam
 
 The official information can be found at the department website [here](https://www.stat.wisc.edu/phd-masters/masters-exam).
 
-## Practice Materials
+### Practice Materials
 
 Some practice materials can be found at the following links:
 
@@ -15,7 +15,7 @@ Some practice materials can be found at the following links:
 * [University of Maryland, Past Qualifying Exams][maryland]
 * [Central Michigan University, Past Qualifying Exams][cmich]
 
-### Advice collected from previous students
+#### Advice collected from previous students
 
 Master's Exam Checklist (courtesy of Alex C.)
 > These questions are intended to help you check your work ask you work on the master's exam and are not exhaustive. Many of these are also worth looking over to review for the oral exam.
@@ -45,11 +45,11 @@ Master's Exam Checklist (courtesy of Alex C.)
 > * Does the information we've taken from the model best answer the question? 
 > * Did we get any results that were surpring? Does this mean we need to redo anything?
 
-# PhD Qualifying Exam
+## PhD Qualifying Exam
 
 The official information for the PhD qualifying exam can be found at the department website [here](https://www.stat.wisc.edu/phd-masters/PhD_Exam_Syllabus).
 
-## Practice Materials
+### Practice Materials
 
 Some practice materials can be found at the following links:
 

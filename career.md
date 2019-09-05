@@ -2,7 +2,7 @@
 
 # Career Resources
 
-#### Fellowships
+## Fellowships
 
 * [Facebook Fellowship Program][fb]
 * [NSF Graduate Fellowship Program][nsf]
@@ -21,7 +21,7 @@
 [barto]: https://www.amstat.org/ASA/Your-Career/Awards/John-J-Bartko-Scholarship-Award.aspx
 
 
-#### Jobs
+## Jobs
 
 Keep an eye out on the emailing lists. There are plenty of job opportunites
 that are distributed through those channels. You can also ask your advisor for some direction as well.
@@ -32,7 +32,7 @@ There are a few places that maintain a list of jobs:
 
 [asa-jobs]:http://jobs.amstat.org/jobs
 
-#### Student Paper Awards
+## Student Paper Awards
 
 * [International Biometric Society Young Statisticians Award][ibc]
 * [Institute of Mathematical Statistics Travel Award][ims]
@@ -52,7 +52,7 @@ There are a few places that maintain a list of jobs:
 [jsm]:https://www.amstat.org/ASA/Your-Career/Student-Paper-Competitions.aspx?hkey=6481db83-6316-44b1-be71-d4796b76f583
 [iaos]:http://www.oecd.org/iaos2018/
 
-#### Poster Competitions
+## Poster Competitions
 
 * [New England Statistics Symposium][ness]
 * [International Chinese Statistical Association][icsa]

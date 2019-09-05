@@ -1,7 +1,7 @@
-# Past Seminars
+## Departmental Seminars
 [Statistics Faculty Lightning Talks (Sept 2019)](seminars/lightning-talks-1909.pdf ':ignore')
 
-# Student Seminar Schedule
+## Student Seminar
 
 This is the official schedule for the student seminar series. The student seminar series features the research work of current students. We aim to have a speaker about once every other week. Future iterations of the seminar will include topics such as internship experience and computing workshops, depending on interest. We hope to have food at each of the seminars depending on funding!
 
