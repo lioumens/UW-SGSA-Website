@@ -15,4 +15,4 @@
 
     - [Student Achievements](achievements.md)
 
-- [***Getting Involved!***](involved.md)
+- [***Getting Involved***](involved.md)
