@@ -75,3 +75,5 @@ ghtening.
 [career-advice]:https://terrytao.wordpress.com/career-advice/
 [statistical-career-advice]:http://www-stat.wharton.upenn.edu/~steele/Rants/AdviceGS.html
 [statistical-challenges]:https://www.math.ucdavis.edu/~tracy/courses/math280/nsf_report.pdf
+
+[appeal](appeal.md ':include')

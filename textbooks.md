@@ -64,3 +64,5 @@
   Great to start learning bash / shell scripting, and git for version control
 
 *Disclaimer: The views presented below are in no way intended to represent the student body, department or university. Recommendations, comments, and links are provided for user information and convenience only. They do not constitute or imply an endorsement by the Statistical Graduate Student Association at UW-Madison.*
+
+[appeal](appeal.md ':include')
