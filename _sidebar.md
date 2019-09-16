@@ -1,5 +1,5 @@
 - Current Students
-
+    - [Events](events.md)
     - [Career Resources](career.md)
     - [Coursework](courses.md)
     - [Textbook Recommendations](textbooks.md)
