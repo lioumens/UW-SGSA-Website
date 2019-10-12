@@ -1,6 +1,7 @@
 - Current Students
     - [Events](events.md)
     - [Career Resources](career.md)
+    - [Mental Health Resources](mental-health.md)
     - [Coursework](courses.md)
     - [Textbook Recommendations](textbooks.md)
     - [Exam Resources](exams.md)
