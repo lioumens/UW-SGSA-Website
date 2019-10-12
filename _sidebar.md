@@ -14,5 +14,6 @@
 - News
 
     - [Student Achievements](achievements.md)
+    - [Department Photos](photos.md)
 
 - [***Getting Involved***](involved.md)
