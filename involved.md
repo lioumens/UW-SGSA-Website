@@ -15,15 +15,15 @@ Let us know if you want to contribute to SGSA!
 
 We elect officers at the beginning of the Fall semester on a yearly cycle.  The main duties of the officers are:
 
-  * **President (Michael Liou)**: Oversees and manages the organization including planning and organizing events and projects and chairs General Meetings.
-  * **Vice President (Srikanth Aravamuthan)**: Advises the President and the organization in planning and organizing events and projects.
-  * **Treasurer (Sean Kent)**: Oversees and manages finances for the organization.
-  * **Secretary (Auden Krauska)**: Oversees and manages communications for the organization.
-  * **Student Relations (Susan Glenn)**: Plans and organizes social events.
-  * **Technology (Alex Hayes)**: Plans and organizes the website.
-  * **Student Seminar (Xiaowu Dai)** : Plans and organizes seminars and workshops.
-  * **Student Outreach**: Plans and organizes volunteer events
-  * **Student Representatives (Jeanne Li, Matt Stone)**: Represents the President and the organization in Department Meeting.
+* **President (Nathaniel Pritchard)**: Oversees and manages the organization including planning and organizing events and projects and chairs General Meetings.
+* **Vice President (Jeanne Li)**: Advises the President and the organization in planning and organizing events and projects.
+* **Treasurer (Ben Teo)**: Oversees and manages finances for the organization.
+* **Secretary**: Oversees and manages communications for the organization.
+* **Student Relations (Michael Mays)**: Plans and organizes social events.
+* **Technology (Jingcheng Xu)**: Plans and organizes the website.
+* **Student Seminar (Susan Glenn)** : Plans and organizes seminars and workshops.
+* **Student Outreach (Catherine Anderson)**: Plans and organizes volunteer events
+* **Student Representatives (Michael Liou)**: Represents the President and the organization in Department Meeting.
 
 ## About This Website
 
