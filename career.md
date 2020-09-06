@@ -2,6 +2,72 @@
 
 # Career Resources
 
+## Awards
+
+For awards that require nominations, please submit the name of the
+award, due date and application materials (excluding reference
+letters) to [Dana Maltby][mailto:dmaltby@wisc.edu] by email at least a
+month in advance. Please make sure you follow the instructions for
+nomination materials
+exactly.
+
+For awards that do not require nominations, please email the name of
+the award and due date to [Dana Maltby][mailto:dmaltby@wisc.edu], so
+that we can track applications and outcomes.
+
+### [UW-Madison Outstanding Women of Color Awards][https://diversity.wisc.edu/2020/05/call-for-nominations-2020-21-uw-madison-outstanding-women-of-color-awards/]
+
+The UW–Madison Outstanding Women of Color Awards acknowledge and honor
+women of color among UW-Madison faculty, staff, students
+(undergraduate or post-baccalaureate) and in the Greater Madison
+community, who have made outstanding contributions in one or more of
+the following areas: social justice, activism, and advocacy on behalf
+of disadvantaged, marginalized populations; community service;
+scholarly research, writing, speaking and/or teaching on race,
+ethnicity, and indigeneity in U.S. society; community building on- or
+off-campus, to create an inclusive and respectful environment for all.
+
+*Deadline: September, 2020*
+
+### [Capstone PhD Teaching Award][https://grad.wisc.edu/teaching-assistant-awards/]
+
+Recognizes TA’s who have performed as outstanding teachers through
+their UW-Madison tenure.
+
+*Deadline: November, 2020*
+
+### [Early Excellence in Teaching][https://grad.wisc.edu/teaching-assistant-awards/]
+
+Award recognizes outstanding and inspirational performance on the part
+of TA’s with fewer than four semesters of teaching experience.
+
+*Deadline: November, 2020*
+
+### [Exceptional Service Award][https://grad.wisc.edu/teaching-assistant-awards/]
+
+ Recognizes TA’s who perform exceptional service related to the
+ educational mission of their department and our university
+ (volunteerism, committee work, mentoring, etc.) in addition to the
+ regular duties.
+ 
+*Deadline: November, 2020*
+
+### [Innovation in Teaching Award][https://grad.wisc.edu/teaching-assistant-awards/]
+
+Recognizes TA’s who bring extraordinary creativity to their work and
+have developed or adapted teaching methods or techniques in new and
+innovative ways.
+
+*Deadline: November, 2020*
+
+### [American Statistical Association Student Paper][https://www.amstat.org/ASA/Your-Career/Student-Paper-Competitions.aspx]
+
+The winners of best paper competitions earn travel awards to
+ASA-sponsored conferences. Requires JSM registration. See each ASA
+section websites for details.
+
+*Deadline: December 15, 2020*
+
 ## Fellowships
 
 * [Facebook Fellowship Program][fb]
