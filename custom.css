@@ -16,16 +16,18 @@ html, body {
 /* Small screen main cover, don't make it too small */
 #coverlogo {
   min-width: 320px;
+  max-height: 88%; /* adjust to height to parent div */
 }
 
 /* Fix short and wide screens */
 section.cover {
   min-height: 800px;
+  margin-left: 0px; /* small screens text gets pushed off with margin */
 }
 
-/* small screens text gets pushed off with margin */
-section.cover .cover-main {
+.cover-main {
   margin-left: 0px;
+  height: 100%; /* Fit div to parent section */
 }
 
 /* align logo to top of page */
