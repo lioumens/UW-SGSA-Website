@@ -1,6 +1,5 @@
 
-
-# Degree Requirements
+## Degree Requirements
 
 For a list of your graduation requirements see the official website for your degree:
 * [Masters][masters-req]
@@ -21,7 +20,7 @@ For a list of your graduation requirements see the official website for your deg
 [cs]: https://www.cs.wisc.edu/graduate/graduate-phd-minor/
 
 
-# Timelines
+## Timelines
 
 ### Traditional Masters
 
@@ -66,3 +65,5 @@ If you start off in Stat709 with an interest in probability theory,
 |Year 2 (Quals option B)| Fall 2 | 709, BMI642, BMI741, rotation | Spring 2 | 710, 998, BMI641 |
 |Year 3 (Quals option A)| Fall 3 | biological science elective, research | Spring 3 | elective, research |
 |Year 4+ | Fall 4+ | research... | Spring 4+ | research... |
+
+

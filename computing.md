@@ -24,3 +24,5 @@ Tools that are generally recommended and useful to learn for statisticians are l
 #### Website
 
 * [Making a Website with Blogdown in R](website?id=making-a-website-in-r-tutorial)
+
+[appeal](appeal.md ':include')

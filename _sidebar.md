@@ -1,16 +1,20 @@
-- **Organization**
-    - [Getting Involved](involved.md)
-- **Current Students**
-    - [General Advice](advice.md)
+- Current Students
+    - [Events](events.md)
     - [Career Resources](career.md)
+    - [Mental Health Resources](mental-health.md)
     - [Coursework](courses.md)
-    - [Recommended Reading](reading.md)
+    - [Textbook Recommendations](textbooks.md)
     - [Exam Resources](exams.md)
     - [Computing Tools](computing.md)
-    - [Student Seminar](seminar.md)
-- **New/Prospective Students**
-    - [Wisconsin](wisconsin.md)
-- **News**
+    - [Seminars](seminar.md)
+
+- New/Prospective Students
+
+    - [About Madison](wisconsin.md)
+
+- News
+
     - [Student Achievements](achievements.md)
     - [Department Photos](photos.md)
 
+- [***Getting Involved***](involved.md)

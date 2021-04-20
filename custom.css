@@ -1,6 +1,7 @@
-/* make all h1 headings larger */
-.markdown-section h1 {
-  font-size: 4rem;
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono|IBM+Plex+Sans&display=swap');
+
+html, body {
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 
 /* change spacing between the title and subtitle */

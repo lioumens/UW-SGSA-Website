@@ -1,6 +1,6 @@
 <img src="images/madisonaerial.jpg" style="width:70%">
 
-# Housing in Madison
+## Housing in Madison
 
 Searching for housing can be a stressful time. Fortunately, the UW Law School has
 a fairly complete, unofficial housing guide publically available on the web.
@@ -16,7 +16,7 @@ vibes around Madison.
   international students.
 * [The Utterly Unofficial Housing Guide](https://law.wisc.edu/admitted/housingguide.html) has links to the most popular house aggregating search tools, a step through of the process and some advice from other graduate students.
 
-# Things to do in Madison
+## Things to do in Madison
 
 Wisconsin's pride is predominantly comprised of beer, cheese and football, but those are not the only things Madison has to offer! Here are some quick highlights to check out.
 
