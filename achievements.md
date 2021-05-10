@@ -1,9 +1,20 @@
 # Student Achievements
 
+### 2021
+
+* [**Michael Mays**][Mays_Michael]: [L&S Continuity of Instruction Award](https://grad.wisc.edu/2021/03/29/2020-ta-award-winners-honored-for-excellence-in-teaching-and-instructional-continuity/)
+* [**Rungang Han**][Han_Rungang]: [ASA Section on Learning and Data Science Best Student Paper Award](https://community.amstat.org/slds/announcements)
+* [**Yuetian Luo**][Luo_Yuetian]: [ASA Section on Learning and Data Science Best Student Paper Award](https://community.amstat.org/slds/announcements)
+* [**Jiaxin Hu**][Hu_Jiaxin]: [ASA Section on Statistical Computing and Graphics Best Student Paper Award](https://community.amstat.org/jointscsg-section/awards/student-paper-competition)
+* [**Chanwoo Lee**][Lee_Chanwoo]: [ASA Section on Statistical Computing and Graphics Best Student Paper Award](https://community.amstat.org/jointscsg-section/awards/student-paper-competition)
+* [**Liam Johnston**][Johnston_Liam]: [IEEE Student Travel Award](http://ieeecss.org/activities/student-travel-support)
+* [**Juan Francisco Mandujano Reyes**][Mandujano_Reyes_Juan_Francisco]: Ce-an Zuo & Chao-ming Wang Scholarship
+
+
 ### 2019
 
-* Outstanding TA Performance Award: [**Alex Hayes**][Alex_Hayes], **Sijing Li**, **Chan Park**, **Yongsu Lee**
-* Honorable Mention TA Performance Award: **MJ Foster**, **Yi Li**, **Peigen Zhou**, **Stephen Berg**
+* Outstanding TA Performance Award: [**Alex Hayes**][Hayes_Alex], **Sijing Li**, **Chan Park**, **Yongsu Lee**
+* Honorable Mention TA Performance Award: **MJ Foster**, **Yi Li**, **Peigen Zhou**, [**Stephen Berg**][Berg_Stephen]
 
 * [**Thevaa Chandereng**][Thevaa_Chandereng] won 2nd place in the Medical Device and Diagnostic Section’s 2019 student paper competition for his paper “bayesCT: A Tool for Simulation and Analysis of Adaptive Bayesian Clinical Trials for Binomial and Normal Data"!
 
@@ -38,11 +49,21 @@
 
 * Honorable Mention TA Performance Award: **Bi Cheng Wu**, **Claire Bobst**, **Ruosi Guo**, **Mitchell Paukner**
 
-[Alex_Hayes]: https://www.alexpghayes.com/
+<!-- Links to personal webpages, [Lastname_Firstname] -->
+
+[Berg_Stephen]: https://stephenberg.github.io/
+[Hayes_Alex]: https://www.alexpghayes.com/
 [Thevaa_Chandereng]: https://thevaachandereng.github.io/
 [Dai_Xiaowu]: http://pages.stat.wisc.edu/~xdai26/
+[Hu_Jiaxin]: https://www.jiaxin-hu.com/
+[Han_Rungang]: https://sites.google.com/view/rungang
+[Johnston_Liam]: https://www.linkedin.com/in/liam-johnston-95639ab5/
 [Kent_Sean]: http://pages.cs.wisc.edu/~kent/
-[Ye_Ting]: https://sites.google.com/view/tingye/
+[Lee_Chanwoo]: http://pages.stat.wisc.edu/~clee466/
 [Liang_Muxuan]: https://sites.google.com/view/muxuan-liang
+[Luo_Yuetian]: http://pages.stat.wisc.edu/~yluo/
+[Mandujano_Reyes_Juan_Francisco]: https://www.linkedin.com/in/juan-francisco-mandujano/
+[Mays_Michael]: https://www.linkedin.com/in/michaelfmays/
+[Ye_Ting]: https://sites.google.com/view/tingye/
 [Zheng_Ye]: http://pages.stat.wisc.edu/~yezheng/
 
