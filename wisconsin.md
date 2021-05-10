@@ -8,13 +8,11 @@ It's a great introduction to the apartment hunting process and the neighborhood
 vibes around Madison.
 
 * [An Introduction to the Madison
-  neighborhoods](https://law.wisc.edu/admitted/neighborhoods.html) with some
+  neighborhoods](https://law.wisc.edu/admitted/housing.html) with some
   idea of what your surrounding amenities and daily commute will be like, along
   with some monthly rent estimates. One popular area left out of the guide is
   the Hilldale Shopping Area apartments; it is a very lively part of town with
-  a nearby mall, Target, Whole Foods, and a convenient 20 minute bus commute to the Medical Sciences Building. This area to be popular amongst
-  international students.
-* [The Utterly Unofficial Housing Guide](https://law.wisc.edu/admitted/housingguide.html) has links to the most popular house aggregating search tools, a step through of the process and some advice from other graduate students.
+  a nearby mall, Target, Whole Foods, and a convenient 20 minute bus commute to the Medical Sciences Building.
 
 ## Things to do in Madison
 
