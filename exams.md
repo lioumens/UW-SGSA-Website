@@ -43,7 +43,7 @@ They generally try to get the decisions out after the next faculty meeting.
 > * Does the information we've taken from the model best answer the question? 
 > * Did we get any results that were surprising? Does this mean we need to redo anything?
 
-* Report Writing Skills and preparation while taking classes (Chelsea G.)
+* Report Writing Skills and Preparation while Taking Classes (Chelsea G.)
 > * Start practicing LaTeX and ggplot (tidyverse) early when you are doing your assignments (i.e. homework for stat850). Practice typing them up and importing your figures. It’s easier to practice those skills over the first year and a half instead of in time pressured situations in which you need to generate a report such as during the Master’s Exam.
 > 
 > * Make sure to practice *precise* interpretations and with all the calculations you’re doing, double check that you can interpret your results consistently and appropriately. Ask “how would I use that"?
