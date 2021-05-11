@@ -30,4 +30,7 @@ To preview the site locally, install docsify, and run `docsify serve`.
 
 ## Hosting
 
-If there's anything wrong on the hosting end, you should contact Mike in IT.
+Hosting is done on the stat servers. If there's anything wrong, you should 
+contact the IT department. If you're the new technology chair, you'll also
+have to talk to them to get edit permissions on the production version of 
+the website.
